@@ -1,0 +1,1 @@
+var e=`UCCP Bradford - Pickleball Court`;export{e as t};
